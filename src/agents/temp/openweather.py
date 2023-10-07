@@ -32,13 +32,13 @@ class WeatherChecker:
             print(f"Current temperature in {city_name}: {temperature}°C")
 
             if temperature < min_temp:
-                print(f"Alert: Temperature is below {min_temp}°C")
+                return f"Alert: Temperature is below {min_temp}°C"
             elif temperature > max_temp:
-                print(f"Alert: Temperature is above {max_temp}°C")
+                return f"Alert: Temperature is above {max_temp}°C"
             else:
-                print("Temperature is within the preferred range.")
+                return "Temperature is within the preferred range."
         else:
-            print("Unable to check temperature. Please try again later.")
+            return "Unable to check temperature. Please try again later."
 
 
 if __name__ == "__main__":
