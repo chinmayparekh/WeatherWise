@@ -15,14 +15,15 @@ Before running the project, ensure you have the following prerequisites installe
 3. An API key from OpenWeather (for weather data retrieval)
 
 ### Setup
-1. Clone the repository:- => git clone https://github.com/chinmayparekh/WeatherWise.git <br>
-                          => cd WeatherWise
+1. Clone the repository:- <br>
+   => git clone https://github.com/chinmayparekh/WeatherWise.git <br>
+   => cd WeatherWise
 
-2. Activate virtual environment - poetry or pipenv
+3. Activate virtual environment - poetry or pipenv
 
-3. Open the `src/agents/temp.py` file and replace `api_key` with your OpenWeather API key.
+4. Open the `src/agents/temp.py` file and replace `api_key` with your OpenWeather API key.
 
-4. Open the `src/agents/openweather.py` file and replace `api_key` with your OpenWeather API key.
+5. Open the `src/agents/openweather.py` file and replace `api_key` with your OpenWeather API key.
 
 ### Running the Agent
 1. Run the main.py script which is inside src directory.
