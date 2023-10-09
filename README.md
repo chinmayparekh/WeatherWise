@@ -15,9 +15,8 @@ Before running the project, ensure you have the following prerequisites installe
 3. An API key from OpenWeather (for weather data retrieval)
 
 ### Setup
-1. Clone the repository:- 
-=> git clone https://github.com/chinmayparekh/WeatherWise.git
-=> cd WeatherWise
+1. Clone the repository:- => git clone https://github.com/chinmayparekh/WeatherWise.git <br>
+                          => cd WeatherWise
 
 2. Activate virtual environment - poetry or pipenv
 
