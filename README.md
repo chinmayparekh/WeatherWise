@@ -23,7 +23,7 @@ Before running the project, ensure you have the following prerequisites installe
 
 3. Open the `src/agents/temp.py` file and replace `api_key` with your OpenWeather API key.
 
-4. Open the `src/agents/openweather.py` file and replace `<your-api-key>` with your OpenWeather API key.
+4. Open the `src/agents/openweather.py` file and replace `api_key` with your OpenWeather API key.
 
 ### Running the Agent
 1. Run the main.py script which is inside src directory.
