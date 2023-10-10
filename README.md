@@ -39,13 +39,20 @@ Before running the project, ensure you have the following prerequisites installe
 6. Sign up and verify email at the OpenWeatherMap website (https://openweathermap.org/api).
 
 7.   Click the drop down beside your username (in the navigation bar) and go to 'My API Keys' to get your key.
-8. Change the placeholder values in src/.env file to your api key and desired seed values . 
+
+![A7A9452F-4E16-445A-9F44-2A32EE2D7A1F_1_201_a](https://github.com/chinmayparekh/WeatherWise/assets/79003717/56986ead-4869-4248-85ea-c3afc3702862)
+
+
+9. Change the placeholder values in src/.env file to your api key and desired seed values . 
 
 ### Running the Agent
 ---
 1. Run the main.py script which is inside src directory.
 2. Open a terminal window, then run temp_client.py which is inside src directory and follow the on-screen instructions to set your preferred temperature range and location.
 3. Once configured, the agent will continuously monitor the temperature and send alerts according to given inputs.
+
+![FA32E053-CA8F-4456-846C-EF4D15F7A172_1_105_c](https://github.com/chinmayparekh/WeatherWise/assets/79003717/d73ef77f-68a7-4895-8b45-041b309add05)
+
 
 ## Special Considerations
 ---
