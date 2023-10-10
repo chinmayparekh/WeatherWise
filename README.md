@@ -51,7 +51,7 @@ Before running the project, ensure you have the following prerequisites installe
 2. Open a terminal window, then run temp_client.py which is inside src directory and follow the on-screen instructions to set your preferred temperature range and location.
 3. Once configured, the agent will continuously monitor the temperature and send alerts according to given inputs.
 
-![FA32E053-CA8F-4456-846C-EF4D15F7A172_1_105_c](https://github.com/chinmayparekh/WeatherWise/assets/79003717/d73ef77f-68a7-4895-8b45-041b309add05)
+![51DAA6D8-EBF7-4365-A415-B5575DEAA562_1_105_c](https://github.com/chinmayparekh/WeatherWise/assets/79003717/113ad653-8980-4079-aca9-6a5db75d7de9)
 
 
 ## Special Considerations
