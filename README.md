@@ -33,10 +33,13 @@ Before running the project, ensure you have the following prerequisites installe
 
       pip3 install -r requirements.txt
 
-5. Sign up and verify email at the OpenWeatherMap website (https://openweathermap.org/api).
+![594E9B92-44C9-4EFC-8A8D-1A90FA2F609D_1_105_c](https://github.com/chinmayparekh/WeatherWise/assets/79003717/95f5454f-997a-4417-99d7-568fa1f98784)
 
-6.   Click the drop down beside your username (in the navigation bar) and go to 'My API Keys' to get your key.
-7. Change the placeholder values in src/.env file to your api key and desired seed values . 
+
+6. Sign up and verify email at the OpenWeatherMap website (https://openweathermap.org/api).
+
+7.   Click the drop down beside your username (in the navigation bar) and go to 'My API Keys' to get your key.
+8. Change the placeholder values in src/.env file to your api key and desired seed values . 
 
 ### Running the Agent
 ---
