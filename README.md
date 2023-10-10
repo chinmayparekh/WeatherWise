@@ -26,16 +26,17 @@ Before running the project, ensure you have the following prerequisites installe
 2. Create a virtual environment:
 
       python3 -m venv .env
+   
       source env/bin/activate
 
-3. Download the requirements:
+4. Download the requirements:
 
       pip3 install -r requirements.txt
 
-4. Sign up and verify email at the OpenWeatherMap website (https://openweathermap.org/api).
+5. Sign up and verify email at the OpenWeatherMap website (https://openweathermap.org/api).
 
-5.   Click the drop down beside your username (in the navigation bar) and go to 'My API Keys' to get your key.
-6. Change the placeholder values in src/.env file to your api key and desired seed values . 
+6.   Click the drop down beside your username (in the navigation bar) and go to 'My API Keys' to get your key.
+7. Change the placeholder values in src/.env file to your api key and desired seed values . 
 
 ### Running the Agent
 ---
