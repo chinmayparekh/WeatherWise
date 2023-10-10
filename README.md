@@ -35,7 +35,7 @@ Before running the project, ensure you have the following prerequisites installe
 4. Sign up and verify email at the OpenWeatherMap website (https://openweathermap.org/api).
 
 5.   Click the drop down beside your username (in the navigation bar) and go to 'My API Keys' to get your key.
-6. Open the `src/agents/temp.py` file and replace `api_key` with your OpenWeather API key and open the `src/agents/openweather.py` file and replace `api_key` with your OpenWeather API key.
+6. Change the placeholder values in src/.env file to your api key and desired seed values . 
 
 ### Running the Agent
 ---
