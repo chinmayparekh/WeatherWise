@@ -1,5 +1,5 @@
 venv
-# *.env
+env
 .idea
 .iitb
 __pycache__

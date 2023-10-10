@@ -41,11 +41,11 @@ class WeatherChecker:
 
             # Compare the temperature with the specified thresholds
             if temperature < min_temp:
-                return f"Alert: Temperature is below {min_temp}°C"
+                return f"The current temperature is {temperature}. Alert: Temperature is below {min_temp}°C"
             elif temperature > max_temp:
-                return f"Alert: Temperature is above {max_temp}°C"
+                return f"The current temperature is {temperature}. Alert: Temperature is above {max_temp}°C"
             else:
-                return "Temperature is within the preferred range."
+                return f"The current temperature is {temperature}. Temperature is within the preferred range."
         else:
             return "Unable to check temperature. Please try again later."
 
