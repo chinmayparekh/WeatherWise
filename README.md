@@ -25,7 +25,7 @@ Before running the project, ensure you have the following prerequisites installe
 
 2. Create a virtual environment:
 
-      python3 -m venv .env
+      python3 -m venv env
    
       source env/bin/activate
 
